@@ -40,4 +40,4 @@ Grab a coffee and see how I make the digital world a better place.</p>
 
 - By email: [hello@mvagnon.com](mailto:hello@mvagnon.com)
 - On LinkedIn: [in/matthieu-vagnon](in/matthieu-vagnon)
-- By video call: [cal.com/matthieu-vagnon](cal.com/matthieu-vagnon)
+- By video call: [Google Meet](https://calendar.app.google/bh5QpWRx5e6tpt3f9)

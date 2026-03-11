@@ -24,7 +24,7 @@ Grab a coffee and see how I make the digital world a better place.</p>
 | Tool | Description |
 | --- | --- |
 | Claude Code | Leading AI agents in the CLI. |
-| Cursor | Fast and reliably code auto-complete in the IDE. |
+| OpenCode | LLM-agnostic AI agents in the CLI. |
 | Google Stitch | UI/UX conception and export to Figma. |
 
 ## Tech Certifications
@@ -37,6 +37,6 @@ Grab a coffee and see how I make the digital world a better place.</p>
 
 ## Contact Me
 
-- By email: [main.mvagnon@icloud.com](mailto:main.mvagnon@icloud.com)
+- By email: [hello@mvagnon.com](mailto:hello@mvagnon.com)
 - On LinkedIn: [in/matthieu-vagnon](in/matthieu-vagnon)
 - By video call: [cal.com/matthieu-vagnon](cal.com/matthieu-vagnon)

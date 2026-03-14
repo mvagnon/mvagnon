@@ -5,10 +5,6 @@
 <p align="center"><i><b>Hi, and welcome to my GitHub!</b></i><br />
 Grab a coffee and see how I make the digital world a better place.</p>
 <p align="center">Also on <a href="https://www.linkedin.com/in/matthieu-vagnon">LinkedIn</a> and <a href="https://www.malt.fr/profile/matthieuvagnon1">Malt</a></p>
-<br />
-<div align="center">
-  <img alt="GitHub Stats" src="https://mvagnon-github-readme.vercel.app/api/top-langs/?username=mvagnon&layout=compact&hide_title=true&theme=swift&border_radius=5&hide_border=true&langs_count=4" />
-</div>
 
 ---
 

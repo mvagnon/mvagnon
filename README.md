@@ -26,14 +26,6 @@ Grab a coffee and see how I make the digital world a better place.</p>
 | SonarQube | Leading static code reviewing. |
 | Google Stitch | UI/UX conception and export to Figma. |
 
-## Tech Certifications
-
-| Provider | Certification | Result |
-| --- | --- | ---|
-| IKM TeckChek | JavaScript Proficiency Profile | 96/100 |
-| Google | Build Dynamic User Interfaces (UI) for Websites | 90% |
-| Meta | Advanced React | 97% |
-
 ## Contact Me
 
 - By email: [hello@mvagnon.com](mailto:hello@mvagnon.com)

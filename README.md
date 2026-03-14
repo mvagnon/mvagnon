@@ -17,14 +17,14 @@ Grab a coffee and see how I make the digital world a better place.</p>
 
 ## My AI-assisted Workflow
 
-| Tool | Description |
-| --- | --- |
-| Claude Code | Industry-leading AI agent in the CLI. |
-| OpenCode | Model-agnostic AI agent in the CLI. |
-| Context7 | Up-to-date docs MCP. |
-| Brave | Web browsing MCP. |
-| Industry-leading static linters | SonarQube, ESLint, Ruff. |
-| Google Stitch w/ Figma | UI/UX design. |
+| Tool | Description | Role |
+| --- | --- | --- |
+| Claude Code | Industry-leading AI agent in the CLI. | Help me develop features. |
+| OpenCode | Model-agnostic AI agent in the CLI. | |
+| Context7 | Up-to-date docs MCP. | Give documentation context to agents. |
+| Brave | Web browsing MCP. | Let agents search the web for uncommon issues. |
+| Industry-leading static linters | SonarQube, ESLint, Ruff. | AI agents guardrails. |
+| Google Stitch w/ Figma | AI-assisted UI/UX design tools. | UI/UX design. |
 
 ## Contact Me
 

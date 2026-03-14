@@ -15,16 +15,16 @@ Grab a coffee and see how I make the digital world a better place.</p>
 
 [All my apps](https://mvagnon.com/)
 
-## AI-assisted Workflow
+## My AI-assisted Workflow
 
 | Tool | Description |
 | --- | --- |
-| Claude Code | Leading AI agents in the CLI. |
-| OpenCode | LLM-agnostic AI agents in the CLI. |
+| Claude Code | Industry-leading AI agent in the CLI. |
+| OpenCode | Model-agnostic AI agent in the CLI. |
 | Context7 | Up-to-date docs MCP. |
 | Brave | Web browsing MCP. |
-| SonarQube | Leading static code reviewing. |
-| Google Stitch | UI/UX conception and export to Figma. |
+| Industry-leading static linters | SonarQube, ESLint, Ruff. |
+| Google Stitch w/ Figma | UI/UX design. |
 
 ## Contact Me
 

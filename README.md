@@ -10,7 +10,7 @@ Grab a coffee and see how I make the digital world a better place.</p>
 
 ## Current Projects
 
-- [x] ✍️ **Personal Dashboard (2025)** - AI-powered SaaS supporting developers to get opportunities.
+- [ ] **[Unmaintained]** Personal Dashboard (2025) - AI-powered SaaS supporting developers to get opportunities.
 - [x] 👨‍💻 [**mvagnon/agents (2025)**](https://github.com/matthieu-vagnon/agents) - Shared configuration and conventions to bootstrap AI coding assistants.
 
 [All my projects](https://mvagnon.com/)

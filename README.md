@@ -14,8 +14,8 @@ Grab a coffee and see how I make the digital world a better place.</p>
 
 ## Current Projects
 
-- [x] ✍️ **Personal Dashboard** - AI-powered SaaS supporting developers to get opportunities.
-- [x] 👨‍💻 [**mvagnon/agents**](https://github.com/matthieu-vagnon/agents) - Shared configuration and conventions to bootstrap AI coding assistants.
+- [x] ✍️ **Personal Dashboard (2025)** - AI-powered SaaS supporting developers to get opportunities.
+- [x] 👨‍💻 [**mvagnon/agents (2025)**](https://github.com/matthieu-vagnon/agents) - Shared configuration and conventions to bootstrap AI coding assistants.
 
 [All my apps](https://mvagnon.com/)
 
@@ -25,8 +25,10 @@ Grab a coffee and see how I make the digital world a better place.</p>
 | --- | --- |
 | Claude Code | Leading AI agents in the CLI. |
 | OpenCode | LLM-agnostic AI agents in the CLI. |
-| Google Stitch | UI/UX conception and export to Figma. |
+| Context7 | Up-to-date docs MCP. |
+| Brave | Web browsing MCP. |
 | SonarQube | Leading static code reviewing. |
+| Google Stitch | UI/UX conception and export to Figma. |
 
 ## Tech Certifications
 

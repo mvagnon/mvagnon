@@ -11,20 +11,9 @@ Grab a coffee and see how I make the digital world a better place.</p>
 ## Current Projects
 
 - 2025 &bull; **[Unmaintained] [Personal Dashboard](https://github.com/mvagnon/unmaintained-personal-dashboard)** &bull; AI-powered SaaS supporting developers to get opportunities.
-- 2025 &bull; **👨‍💻 [mvagnon/agents (2025)](https://github.com/matthieu-vagnon/agents)** &bull; Shared configuration and conventions to bootstrap AI coding assistants.
+- 2025 &bull; **[Unmaintained] [mvagnon/agents (2025)](https://github.com/matthieu-vagnon/agents)** &bull; Shared configuration and conventions to bootstrap AI coding assistants.
 
 [All my projects](https://mvagnon.com/)
-
-## My AI-assisted Workflow
-
-| Tool | Description | Role |
-| --- | --- | --- |
-| Claude Code | Industry-leading AI agent in the CLI. | Help me develop features. |
-| OpenCode | Model-agnostic AI agent in the CLI. | |
-| Context7 | Up-to-date docs MCP. | Give documentation context to agents. |
-| Brave | Web browsing MCP. | Let agents search the web for uncommon issues. |
-| Industry-leading static linters | SonarQube, ESLint, Ruff. | AI agents guardrails. |
-| Google Stitch w/ Figma | AI-assisted UI/UX design tools. | UI/UX design. |
 
 ## Contact Me
 

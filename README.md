@@ -3,7 +3,7 @@
 </div>
 <br />
 <p align="center"><i><b>Hi, and welcome to my GitHub!</b></i><br />
-Grab a coffee and see how I make the digital world a better place.</p>
+Grab a coffee and see how I make the WWW a better place.</p>
 <p align="center">Also on <a href="https://www.linkedin.com/in/matthieu-vagnon">LinkedIn</a> and <a href="https://www.malt.fr/profile/matthieuvagnon1">Malt</a></p>
 
 ---

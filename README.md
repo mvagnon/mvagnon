@@ -20,4 +20,4 @@ Grab a coffee and see how I make the www a better place.</p>
 
 - By email: [hello@mvagnon.com](mailto:hello@mvagnon.com)
 - On LinkedIn: [in/matthieu-vagnon](https://www.linkedin.com/in/matthieu-vagnon/)
-- By video call: [Google Meet](https://calendar.app.google/bh5QpWRx5e6tpt3f9)
+- By video call: [Google Meet](https://calendar.app.google/s3SDpFcn8j7ce5Sm8)

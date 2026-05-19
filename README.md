@@ -8,11 +8,10 @@ Grab a coffee and see how I make the www a better place.</p>
 
 ---
 
-## Current Projects
+## Projects
 
-- 2025 &bull; **[Unmaintained] [mvagnon/agents](https://github.com/matthieu-vagnon/agents)** &bull; Shared configuration and conventions to bootstrap AI coding assistants.
-- 2025 &bull; **[Unmaintained] [Personal Dashboard](https://github.com/mvagnon/unmaintained-personal-dashboard)** &bull; AI-powered SaaS supporting developers to get opportunities.
-- 2025 &bull; **[Unmaintained] [Portfolio](https://github.com/mvagnon/portfolio)** &bull; Old web portfolio.
+- 2025 &bull; **🤖 [mvagnon/agents](https://github.com/matthieu-vagnon/agents)** &bull; Shared configuration and conventions to bootstrap AI coding assistants.
+- 2025 &bull; **✍️ [Personal Dashboard](https://github.com/mvagnon/personal-dashboard)** &bull; AI-powered SaaS supporting developers to get opportunities.
 
 [All my projects](https://mvagnon.com/)
 

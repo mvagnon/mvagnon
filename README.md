@@ -16,6 +16,10 @@ Grab a coffee and see how I make the www a better place.</p>
 
 [All my projects](https://mvagnon.com/)
 
+## I've also contributed on
+
+- **📱 [iVOBS Marketplace](https://apps.apple.com/sa/app/ivobs-web3-marketplace/id6761141766)** &bull; Crypto-centered marketplace.
+
 ## Contact Me
 
 - By email: [hello@mvagnon.com](mailto:hello@mvagnon.com)

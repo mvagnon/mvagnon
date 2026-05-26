@@ -17,11 +17,7 @@ Grab a coffee and see how I make the www a better place.</p>
 
 [All my personal projects](https://mvagnon.com/)
 
-## I've also contributed on
-
-- **📱 [iVOBS Marketplace](https://apps.apple.com/sa/app/ivobs-web3-marketplace/id6761141766)** &bull; Crypto world-wide product and services marketplace.
-
-[Watch my porfolio](https://portfolio.mvagnon.com/)
+[Watch my whole porfolio](https://portfolio.mvagnon.com/)
 
 ## Contact Me
 

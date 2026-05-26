@@ -4,7 +4,7 @@
 <br />
 <p align="center"><i><b>Hi, and welcome to my GitHub!</b></i><br />
 Grab a coffee and see how I make the www a better place.</p>
-<p align="center">Come and visit my <a href="https://portfolio.mvagnon.com/">personal website</a>!</p>
+<p align="center">Come and visit my <a target="_blank" href="https://portfolio.mvagnon.com/">personal website</a>!</p>
 
 ---
 

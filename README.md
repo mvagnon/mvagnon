@@ -4,7 +4,7 @@
 <br />
 <p align="center"><i><b>Hi, and welcome to my GitHub!</b></i><br />
 Grab a coffee and see how I make the www a better place.</p>
-<p align="center">Also on <a href="https://www.linkedin.com/in/matthieu-vagnon">LinkedIn</a> and <a href="https://www.malt.fr/profile/matthieuvagnon1">Malt</a></p>
+<p align="center">Come and visit my <a href="https://portfolio.mvagnon.com/">personal website</a>!</p>
 
 ---
 
@@ -16,8 +16,6 @@ Grab a coffee and see how I make the www a better place.</p>
 - 2025 &bull; **✍️ [Personal Dashboard](https://github.com/mvagnon/personal-dashboard)** &bull; AI-powered SaaS supporting developers to get opportunities.
 
 [All my personal projects](https://mvagnon.com/)
-
-[Watch my whole porfolio](https://portfolio.mvagnon.com/)
 
 ## Contact Me
 

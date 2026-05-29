@@ -10,12 +10,13 @@ Grab a coffee and see how I make the www a better place.</p>
 
 ## Projects
 
+- 2026 &bull; **🍴 [Ralph Fork](https://github.com/mvagnon/ralph)** &bull; Ralph autonomous AI agent loop fork that integrate PM tools (Jira, Notion, GitHub Issues, etc.).
 - 2026 &bull; **🌐 [Portfolio](https://github.com/mvagnon/mvagnon-portfolio)** &bull; Personal web portfolio.
-- 2026 &bull; **🤖 [mvagnon/dot-agents](https://github.com/mvagnon/dot-agents)** &bull; Personal .agents user-scoped agent-based workflow.
+- 2026 &bull; **⚙️ [mvagnon/dot-agents](https://github.com/mvagnon/dot-agents)** &bull; Personal .agents user-scoped agent-based workflow.
 - 2025 &bull; **🤖 [mvagnon/agents](https://github.com/matthieu-vagnon/agents)** &bull; Shared configuration and conventions to bootstrap AI coding assistants.
 - 2025 &bull; **✍️ [Personal Dashboard](https://github.com/mvagnon/personal-dashboard)** &bull; AI-powered SaaS supporting developers to get opportunities.
 
-[All my personal projects](https://mvagnon.com/)
+[All my apps and projects](https://mvagnon.com/)
 
 ## Contact Me
 

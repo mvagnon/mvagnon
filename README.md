@@ -12,7 +12,6 @@ Grab a coffee and see how I make the www a better place.</p>
 
 - 2026 &bull; **📝 [Plan Based Agentic Workflow](https://github.com/mvagnon/plan-based-agentic-workflow)** &bull; The agentic framework for actual engineers.
 - 2026 &bull; **🌐 [Portfolio](https://github.com/mvagnon/mvagnon-portfolio)** &bull; Personal web portfolio.
-- 2026 &bull; **⚙️ [mvagnon/dot-agents](https://github.com/mvagnon/dot-agents)** &bull; Personal .agents user-scoped agent-based workflow.
 - 2025 &bull; **🤖 [mvagnon/agents](https://github.com/matthieu-vagnon/agents)** &bull; Shared configuration and conventions to bootstrap AI coding assistants.
 - 2025 &bull; **✍️ [Personal Dashboard](https://github.com/mvagnon/personal-dashboard)** &bull; AI-powered SaaS supporting developers to get opportunities.
 

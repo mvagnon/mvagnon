@@ -11,6 +11,7 @@ Grab a coffee and see how I make the www a better place.</p>
 ## Projects
 
 - 2026 &bull; **📝 [Plan Based Agentic Workflow](https://github.com/mvagnon/plan-based-agentic-workflow)** &bull; The agentic framework for actual engineers.
+- 2026 &bull; **⚙️ [mvagnon/skills collection](https://github.com/mvagnon/skills)** &bull; Personal skills collection.
 - 2026 &bull; **🌐 [Portfolio](https://github.com/mvagnon/mvagnon-portfolio)** &bull; Personal web portfolio.
 - 2025 &bull; **✍️ [Personal Dashboard](https://github.com/mvagnon/personal-dashboard)** &bull; AI-powered SaaS supporting developers to get opportunities.
 

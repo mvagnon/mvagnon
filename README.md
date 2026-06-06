@@ -4,7 +4,6 @@
 <br />
 <p align="center"><i><b>Hi, and welcome to my GitHub!</b></i><br />
 Grab a coffee and see how I make the www a better place.</p>
-<p align="center">Come and visit my <a target="_blank" href="https://portfolio.mvagnon.com/">portfolio</a>!</p>
 
 ---
 
@@ -15,7 +14,7 @@ Grab a coffee and see how I make the www a better place.</p>
 - 2026 &bull; **🌐 [Portfolio](https://github.com/mvagnon/mvagnon-portfolio)** &bull; Personal web portfolio.
 - 2025 &bull; **✍️ [Personal Dashboard](https://github.com/mvagnon/personal-dashboard)** &bull; AI-powered SaaS supporting developers to get opportunities.
 
-[All my apps and projects](https://mvagnon.com/)
+[All my projects](https://mvagnon.com/) | [My portfolio](https://portfolio.mvagnon.com/)
 
 ## Contact Me
 

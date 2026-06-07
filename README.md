@@ -5,10 +5,16 @@
 <p align="center"><i><b>Hi, and welcome to my GitHub!</b></i><br />
 Grab a coffee and see how I make the www a better place.</p>
 
----
+<div align="center">
+  <a href="https://mvagnon.com">
+    <img alt="Visit my Portfolio" src="https://img.shields.io/website?url=https%3A%2F%2Fmvagnon.com&up_message=Visit&label=Portfolio&color=%23007fff" />
+  </a>
+  <a href="https://buymeacoffee.com/mvagnon">
+    <img alt="Buy me a Coffee" src="https://img.shields.io/badge/Buy%20me%20a%20coffee-Support-yellow?logo=buymeacoffee" />
+  </a>
+</div>
 
-[![Shield: Portfolio](https://img.shields.io/website?url=https%3A%2F%2Fmvagnon.com&up_message=Visit&label=Portfolio&color=%23007fff)](https://mvagnon.com)
-[![Shield: Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-Support-yellow?logo=buymeacoffee)](https://buymeacoffee.com/mvagnon)
+---
 
 ## Projects
 

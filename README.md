@@ -7,7 +7,7 @@ Grab a coffee and see how I make the www a better place.</p>
 
 ---
 
-[![Shield: Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-Support-yellow?logo=buymeacoffee)](buymeacoffee.com/mvagnon)
+[![Shield: Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-Support-yellow?logo=buymeacoffee)](https://buymeacoffee.com/mvagnon)
 
 ## Projects
 

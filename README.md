@@ -7,6 +7,7 @@ Grab a coffee and see how I make the www a better place.</p>
 
 ---
 
+[![Shield: Portfolio](https://img.shields.io/website?url=https%3A%2F%2Fmvagnon.com&up_message=Visit&label=Portfolio&color=%23007fff)](https://mvagnon.com)
 [![Shield: Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-Support-yellow?logo=buymeacoffee)](https://buymeacoffee.com/mvagnon)
 
 ## Projects
@@ -16,7 +17,7 @@ Grab a coffee and see how I make the www a better place.</p>
 - 2026 &bull; **🌐 [Portfolio](https://github.com/mvagnon/mvagnon-portfolio)** &bull; Personal web portfolio.
 - 2025 &bull; **✍️ [Personal Dashboard](https://github.com/mvagnon/personal-dashboard)** &bull; AI-powered SaaS supporting developers to get opportunities.
 
-[All my projects](https://mvagnon.com/) | [My portfolio](https://portfolio.mvagnon.com/)
+[All my projects](https://mvagnon.com/)
 
 ## Contact Me
 

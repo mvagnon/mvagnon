@@ -18,7 +18,7 @@ Grab a coffee and see how I make the www a better place.</p>
 
 ## Projects
 
-- 2026 &bull; **📊 Family-Fi** &bull; The family finances app.
+- 2026 &bull; **📊 Family-Fi** &bull; The money manager. Built for families.
 - 2026 &bull; **🌸 Iki Hub** &bull; The application marketplace.
 - 2026 &bull; **📝 [Plan Based Agentic Workflow](https://github.com/mvagnon/plan-based-agentic-workflow)** &bull; The agentic framework for actual engineers.
 - 2026 &bull; **⚙️ [mvagnon/skills collection](https://github.com/mvagnon/skills)** &bull; Personal skills collection.

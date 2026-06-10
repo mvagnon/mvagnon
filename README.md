@@ -29,6 +29,6 @@ Grab a coffee and see how I make the www a better place.</p>
 
 ## Contact Me
 
-- By email: [hello@mvagnon.com](mailto:hello@mvagnon.com)
+- By email: [hi@mvagnon.dev](mailto:hi@mvagnon.dev)
 - On LinkedIn: [in/matthieu-vagnon](https://www.linkedin.com/in/matthieu-vagnon/)
 - By video call: [Schedule Here!](https://calendar.notion.so/meet/mvagnon/hi)

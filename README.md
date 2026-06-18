@@ -29,5 +29,4 @@ Grab a coffee and see how I make the www a better place.</p>
 ## Contact Me
 
 - By email: [hi@mvagnon.dev](mailto:hi@mvagnon.dev)
-- On LinkedIn: [in/matthieu-vagnon](https://www.linkedin.com/in/matthieu-vagnon/)
 - On WhatsApp: [Contact Me!](https://wa.me/817090997140?text=Bonjour%20%2F%20Hi%20%2F%20%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%20Matthieu%2C%0A%0AI%E2%80%99m%20interested%20in%20your%20expertise%20in%3A%0A-%20software%20engineering%0A-%20AI%20workflows%0A%0AHere%E2%80%99s%20what%20I%20need%20help%20with%3A)

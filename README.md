@@ -16,7 +16,11 @@ Grab a coffee and see how I make the www a better place.</p>
 
 ---
 
-## Current Projects
+## Personal Projects
+
+[All my projects](https://mvagnon.dev)
+
+### Current
 
 - 2026 &bull; **📊 Family-Fi** &bull; The money manager SaaS. Built for families.
 - 2026 &bull; **🌸 Iki Hub** &bull; The application library.
@@ -24,7 +28,11 @@ Grab a coffee and see how I make the www a better place.</p>
 - 2026 &bull; **⚙️ [mvagnon/skills collection](https://github.com/mvagnon/skills)** &bull; Personal skills collection.
 - 2026 &bull; **🌐 [Portfolio](https://github.com/mvagnon/mvagnon-portfolio)** &bull; Personal web portfolio.
 
-[All my projects](https://mvagnon.dev)
+### Deprecated
+
+- 2025 &bull; **[mvagnon/agents](https://github.com/mvagnon/agents)** &bull; The agentic CLI management CLI.
+- 2025 &bull; **[Personal Dashboard](https://github.com/mvagnon/personal-dashboard)** &bull; The AI creation tool for freelancers.
+- 2025 &bull; **[Portfolio](https://github.com/mvagnon/portfolio)** &bull; My previous portfolio made with React.
 
 ## Contact Me
 

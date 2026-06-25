@@ -49,7 +49,7 @@ config:
 ---
 radar-beta
   axis a["Web"], b["Mobile & Desktop"], c["Backend"], d["Platform"], e["UI/UX"], f["AI Orchestration"], g["Project Management"]
-  curve a["Me"]{90, 70, 50, 70, 80, 100, 80}
+  curve a["Me"]{100, 70, 50, 70, 90, 90, 80}
 
   max 100
   min 0

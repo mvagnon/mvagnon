@@ -16,6 +16,23 @@ Grab a coffee and see how I make the www a better place.</p>
 
 ---
 
+## Current Projects
+
+- 2026 &bull; **📊 Family-Fi** &bull; The money manager SaaS. Built for families.
+- 2026 &bull; **🌸 Iki Hub** &bull; The application library.
+- 2026 &bull; **📝 [Plan Based Agentic Workflow](https://github.com/mvagnon/plan-based-agentic-workflow)** &bull; The agentic framework for actual engineers.
+- 2026 &bull; **⚙️ [mvagnon/skills collection](https://github.com/mvagnon/skills)** &bull; Personal skills collection.
+- 2026 &bull; **🌐 [Portfolio](https://github.com/mvagnon/mvagnon-portfolio)** &bull; Personal web portfolio.
+
+[All my projects](https://mvagnon.com/)
+
+## Contact Me
+
+- By email: [hi@mvagnon.dev](mailto:hi@mvagnon.dev)
+- On WhatsApp: [Contact Me!](https://wa.me/817090997140?text=Bonjour%20%2F%20Hi%20%2F%20%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%20Matthieu%2C%0A%0AI%E2%80%99m%20interested%20in%20your%20expertise%20in%3A%0A-%20software%20engineering%0A-%20AI%20workflows%0A%0AHere%E2%80%99s%20what%20I%20need%20help%20with%3A)
+
+---
+
 <p align="center"><i><b>My developer profile</b></i></p>
 
 ```mermaid
@@ -33,20 +50,3 @@ radar-beta
   max 100
   min 0
 ```
-
----
-
-## Current Projects
-
-- 2026 &bull; **📊 Family-Fi** &bull; The money manager SaaS. Built for families.
-- 2026 &bull; **🌸 Iki Hub** &bull; The application library.
-- 2026 &bull; **📝 [Plan Based Agentic Workflow](https://github.com/mvagnon/plan-based-agentic-workflow)** &bull; The agentic framework for actual engineers.
-- 2026 &bull; **⚙️ [mvagnon/skills collection](https://github.com/mvagnon/skills)** &bull; Personal skills collection.
-- 2026 &bull; **🌐 [Portfolio](https://github.com/mvagnon/mvagnon-portfolio)** &bull; Personal web portfolio.
-
-[All my projects](https://mvagnon.com/)
-
-## Contact Me
-
-- By email: [hi@mvagnon.dev](mailto:hi@mvagnon.dev)
-- On WhatsApp: [Contact Me!](https://wa.me/817090997140?text=Bonjour%20%2F%20Hi%20%2F%20%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%20Matthieu%2C%0A%0AI%E2%80%99m%20interested%20in%20your%20expertise%20in%3A%0A-%20software%20engineering%0A-%20AI%20workflows%0A%0AHere%E2%80%99s%20what%20I%20need%20help%20with%3A)

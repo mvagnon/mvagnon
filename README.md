@@ -18,8 +18,6 @@ Grab a coffee and see how I make the www a better place.</p>
 
 ## Personal Projects
 
-[All my projects](https://mvagnon.dev)
-
 ### Current
 
 - 2026 &bull; **📊 Family-Fi** &bull; The money manager SaaS. Built for families.

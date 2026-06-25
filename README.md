@@ -39,7 +39,7 @@ Grab a coffee and see how I make the www a better place.</p>
 
 ---
 
-<p align="center"><i><b>My developer profile</b></i></p>
+<p align="center"><i><b>My (honest) developer profile</b></i></p>
 
 ```mermaid
 ---

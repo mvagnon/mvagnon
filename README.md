@@ -2,8 +2,9 @@
   <img height="180" alt="Coffee GIF" src="https://raw.githubusercontent.com/mvagnon/readme-assets/refs/heads/main/coffee.gif" />
 </div>
 <br />
-<p align="center"><i><b>Hi, and welcome to my GitHub!</b></i><br />
-Grab a coffee and see how I make the www a better place.</p>
+<p align="center"><i><b>Hi, and welcome to my GitHub!</b></i></p>
+
+<p align="center">I’m Matthieu Vagnon, a detail-oriented full-stack developer passionate about AI workflows and UI/UX.</p>
 
 <div align="center">
   <a href="https://mvagnon.dev">
@@ -47,7 +48,7 @@ config:
   theme: neutral
 ---
 radar-beta
-  axis a["Web"], b["Mobile & Desktop"], c["Backend"], d["Platform"], e["UI/UX"], f["AI Agents Orchestration"], g["Project Management"]
+  axis a["Web"], b["Mobile & Desktop"], c["Backend"], d["Platform"], e["UI/UX"], f["AI Orchestration"], g["Project Management"]
   curve a["Me"]{90, 70, 50, 70, 80, 100, 80}
 
   max 100

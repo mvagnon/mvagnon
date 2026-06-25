@@ -4,7 +4,7 @@
 <br />
 <p align="center"><i><b>Hi, and welcome to my GitHub!</b></i></p>
 
-<p align="center">I’m Matthieu Vagnon, a detail-oriented full-stack developer passionate about AI workflows and UI/UX.</p>
+<p align="center">I’m Matthieu Vagnon, a detail-oriented, creative full-stack developer passionate about AI workflows.</p>
 
 <div align="center">
   <a href="https://mvagnon.dev">

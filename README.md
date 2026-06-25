@@ -24,7 +24,7 @@ Grab a coffee and see how I make the www a better place.</p>
 - 2026 &bull; **⚙️ [mvagnon/skills collection](https://github.com/mvagnon/skills)** &bull; Personal skills collection.
 - 2026 &bull; **🌐 [Portfolio](https://github.com/mvagnon/mvagnon-portfolio)** &bull; Personal web portfolio.
 
-[All my projects](https://mvagnon.com/)
+[All my projects](https://mvagnon.dev)
 
 ## Contact Me
 

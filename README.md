@@ -28,8 +28,8 @@ Grab a coffee and see how I make the www a better place.</p>
 
 ### Deprecated
 
-- 2025 &bull; **[mvagnon/agents](https://github.com/mvagnon/agents)** &bull; The agentic CLI management CLI.
-- 2025 &bull; **[Personal Dashboard](https://github.com/mvagnon/personal-dashboard)** &bull; The AI creation tool for freelancers.
+- 2025 &bull; **[mvagnon/agents](https://github.com/mvagnon/agents)** &bull; The agentic CLI config management CLI.
+- 2025 &bull; **[Personal Dashboard](https://github.com/mvagnon/personal-dashboard)** &bull; The AI content creation tool for freelancers.
 - 2025 &bull; **[Portfolio](https://github.com/mvagnon/portfolio)** &bull; My previous portfolio made with React.
 
 ## Contact Me
@@ -44,14 +44,11 @@ Grab a coffee and see how I make the www a better place.</p>
 ```mermaid
 ---
 config:
-  fontFamily: '''Open Sans Variable'', sans-serif'
   theme: neutral
-  themeVariables:
-    fontFamily: '''Open Sans Variable'', sans-serif'
 ---
 radar-beta
-  axis m["Perfectionism"], s["Minimalism"], e["Teamwork"], h["Agentic Orchestration"], a["Creativity"]
-  curve a["Me"]{90, 70, 50, 80, 70}
+  axis a["Web"], b["Mobile & Desktop"], c["Backend"], d["Platform"], e["UI/UX"], f["AI Agents Orchestration"]
+  curve a["Me"]{90, 70, 50, 70, 80, 100}
 
   max 100
   min 0

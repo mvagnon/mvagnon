@@ -16,6 +16,26 @@ Grab a coffee and see how I make the www a better place.</p>
 
 ---
 
+<p align="center"><i><b>My developer profile</b></i></p>
+
+```mermaid
+---
+config:
+  fontFamily: '''Open Sans Variable'', sans-serif'
+  theme: neutral
+  themeVariables:
+    fontFamily: '''Open Sans Variable'', sans-serif'
+---
+radar-beta
+  axis m["Perfectionism"], s["Minimalism"], e["Teamwork"], h["Agentic Orchestration"], a["Creativity"]
+  curve a["Me"]{90, 70, 50, 80, 70}
+
+  max 100
+  min 0
+```
+
+---
+
 ## Current Projects
 
 - 2026 &bull; **📊 Family-Fi** &bull; The money manager SaaS. Built for families.

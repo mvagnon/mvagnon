@@ -21,6 +21,7 @@
 
 ### Current
 
+- 2026 &bull; **⚡️ [zapgit](https://github.com/mvagnon/zapgit)** &bull; Lightweight CLI to help developers make the small repetitive git-based tasks fast and precise.
 - 2026 &bull; **📊 Family-Fi** &bull; The money manager SaaS. Built for families.
 - 2026 &bull; **🌸 Iki Hub** &bull; The application library.
 - 2026 &bull; **📝 [Plan Based Agentic Workflow](https://github.com/mvagnon/plan-based-agentic-workflow)** &bull; The agentic framework for actual engineers.

@@ -28,7 +28,7 @@
 
 ### Deprecated
 
-- 2026 &bull; **📝 [Plan Based Agentic Workflow](https://github.com/mvagnon/plan-based-agentic-workflow)** &bull; The agentic framework for actual engineers.
+- 2026 &bull; **[Plan Based Agentic Workflow](https://github.com/mvagnon/plan-based-agentic-workflow)** &bull; The agentic framework for actual engineers.
 - 2025 &bull; **[mvagnon/agents](https://github.com/mvagnon/agents)** &bull; The agentic CLI config management CLI.
 - 2025 &bull; **[Personal Dashboard](https://github.com/mvagnon/personal-dashboard)** &bull; The AI content creation tool for freelancers.
 - 2025 &bull; **[Portfolio](https://github.com/mvagnon/portfolio)** &bull; My previous portfolio made with React.

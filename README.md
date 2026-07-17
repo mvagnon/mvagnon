@@ -30,7 +30,7 @@
 ### Deprecated
 
 - 2026-2026 &bull; **[Plan Based Agentic Workflow](https://github.com/mvagnon/plan-based-agentic-workflow)** &bull; Why: not needed anymore, but feel free to fork.
-- 2025-2026 &bull; **[mvagnon/agents](https://github.com/mvagnon/agents)** &bull; Why: `chezmoi` partially replaces this.
+- 2025-2026 &bull; **[mvagnon/agents](https://github.com/mvagnon/agents)** &bull; Why: [chezmoi](https://github.com/twpayne/chezmoi) partially replaces this.
 - 2025-2025 &bull; **[Personal Dashboard](https://github.com/mvagnon/personal-dashboard)** &bull; Why: skills system replaces this.
 - 2025-2025 &bull; **[Portfolio](https://github.com/mvagnon/portfolio)** &bull; Why: [here is the new porfolio](https://github.com/mvagnon/mvagnon-portfolio).
 

@@ -21,6 +21,7 @@
 
 ### Current
 
+- 2026 &bull; **⚙️ [OpenCode MCP](https://github.com/mvagnon/opencode-mcp)** &bull; Let your agent ask questions to your codebase using OpenCode headless mode.
 - 2026 &bull; **⚡️ [zapdev](https://github.com/mvagnon/zapdev)** &bull; Fast, performant and lightweight git chores and dev tools using your terminal and your own local LLM.
 - 2026 &bull; **📊 Family-Fi** &bull; The money manager SaaS. Built for families.
 - 2026 &bull; **🌸 Iki Hub** &bull; The application library.

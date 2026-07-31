@@ -15,7 +15,6 @@
 
 ### Current
 
-- 2026 &bull; **⚙️ [OpenCode MCP](https://github.com/mvagnon/opencode-mcp)** &bull; Let your agent ask questions to your codebase using OpenCode headless mode.
 - 2026 &bull; **⚡️ [zapdev](https://github.com/mvagnon/zapdev)** &bull; Fast, performant and lightweight git chores and dev tools using your terminal and your own local LLM.
 - 2026 &bull; **📊 Family-Fi** &bull; The money manager SaaS. Built for families.
 - 2026 &bull; **🌸 Iki Hub** &bull; The application library.
@@ -23,6 +22,7 @@
 
 ### Deprecated
 
+- 2026 &bull; **[OpenCode MCP](https://github.com/mvagnon/opencode-mcp)** &bull; Why: OpenCode already allow serving instances.
 - 2026-2026 &bull; **[Plan Based Agentic Workflow](https://github.com/mvagnon/plan-based-agentic-workflow)** &bull; Why: not needed anymore, but feel free to fork.
 - 2025-2026 &bull; **[mvagnon/agents](https://github.com/mvagnon/agents)** &bull; Why: [chezmoi](https://github.com/twpayne/chezmoi) partially replaces this.
 - 2025-2025 &bull; **[Personal Dashboard](https://github.com/mvagnon/personal-dashboard)** &bull; Why: skills system replaces this.

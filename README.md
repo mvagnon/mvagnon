@@ -22,6 +22,8 @@
 
 ### Deprecated
 
+*I prefer to focus on projects that really bring something to the ecosystem. Feel free to fork!*
+
 - 2026 &bull; **[OpenCode MCP](https://github.com/mvagnon/opencode-mcp)** &bull; Why: OpenCode already allow serving instances.
 - 2026-2026 &bull; **[Plan Based Agentic Workflow](https://github.com/mvagnon/plan-based-agentic-workflow)** &bull; Why: not needed anymore, but feel free to fork.
 - 2025-2026 &bull; **[mvagnon/agents](https://github.com/mvagnon/agents)** &bull; Why: [chezmoi](https://github.com/twpayne/chezmoi) partially replaces this.

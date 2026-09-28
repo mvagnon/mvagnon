@@ -17,19 +17,18 @@
 
 - 2026 &bull; **⚛️ [mvagnon/react-boilerplate](https://github.com/mvagnon/react-boilerplate)** &bull; Boilerplate for React apps, including CI, pre-commit hooks and Orval configuration.
 - 2026 &bull; **⚡️ [zapdev](https://github.com/mvagnon/zapdev)** &bull; Fast, performant and lightweight git chores and dev tools using your terminal and your own local LLM.
-- 2026 &bull; **📊 Family-Fi** &bull; The money manager SaaS. Built for families.
-- 2026 &bull; **🌸 Iki Hub** &bull; The application library.
-- 2026 &bull; **🌐 [Portfolio](https://github.com/mvagnon/mvagnon-portfolio)** &bull; Personal web portfolio.
+- 2026 &bull; **🌐 [Portfolio 2.0](https://github.com/mvagnon/mvagnon-portfolio)** &bull; Personal web portfolio.
 
 ### Deprecated
 
 *I prefer to focus on projects that really bring something to the ecosystem. Feel free to fork!*
 
-- 2026 &bull; **[OpenCode MCP](https://github.com/mvagnon/opencode-mcp)** &bull; Why: OpenCode already allow serving instances.
-- 2026-2026 &bull; **[Plan Based Agentic Workflow](https://github.com/mvagnon/plan-based-agentic-workflow)** &bull; Why: not needed anymore, but feel free to fork.
-- 2025-2026 &bull; **[mvagnon/agents](https://github.com/mvagnon/agents)** &bull; Why: [chezmoi](https://github.com/twpayne/chezmoi) partially replaces this.
-- 2025-2025 &bull; **[Personal Dashboard](https://github.com/mvagnon/personal-dashboard)** &bull; Why: skills system replaces this.
-- 2025-2025 &bull; **[Portfolio](https://github.com/mvagnon/portfolio)** &bull; Why: [here is the new porfolio](https://github.com/mvagnon/mvagnon-portfolio).
+- 2026 &bull; **[Family-Fi](https://github.com/mvagnon/family-fi)**
+- 2026 &bull; **[OpenCode MCP](https://github.com/mvagnon/opencode-mcp)**
+- 2026 &bull; **[Plan Based Agentic Workflow](https://github.com/mvagnon/plan-based-agentic-workflow)**
+- 2025 &bull; **[mvagnon/agents](https://github.com/mvagnon/agents)**
+- 2025 &bull; **[Personal Dashboard](https://github.com/mvagnon/personal-dashboard)**
+- 2025 &bull; **[Portfolio](https://github.com/mvagnon/portfolio)**
 
 ## Contact Me
 

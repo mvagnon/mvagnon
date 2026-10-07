@@ -15,7 +15,6 @@
 
 ### Current
 
-- 2026 &bull; **🔀 [git-subtrepo (fork)](https://github.com/mvagnon/git-subrepo)** &bull; Improvement from git-submodule and git-subtree.
 - 2026 &bull; **⚛️ [mvagnon/rn-boilerplate](https://github.com/mvagnon/rn-boilerplate)** &bull; Boilerplate for React Native mobile apps, including CI, pre-commit hooks and Orval configuration.
 - 2026 &bull; **⚛️ [mvagnon/react-boilerplate](https://github.com/mvagnon/react-boilerplate)** &bull; Boilerplate for React apps, including CI, pre-commit hooks and Orval configuration.
 - 2026 &bull; **⚡️ [zapdev](https://github.com/mvagnon/zapdev)** &bull; Fast, performant and lightweight git chores and dev tools using your terminal and your own local LLM.

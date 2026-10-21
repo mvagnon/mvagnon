@@ -15,6 +15,7 @@
 
 ### Current
 
+- 2026 &bull; **⚡️ [zapdev MCP](https://github.com/mvagnon/zapdev-mcp)** &bull; MCP server for zapdev. Let your agents do git chores in the blink of an eye.
 - 2026 &bull; **⚛️ [mvagnon/rn-boilerplate](https://github.com/mvagnon/rn-boilerplate)** &bull; Boilerplate for React Native mobile apps, including CI, pre-commit hooks and Orval configuration.
 - 2026 &bull; **⚛️ [mvagnon/react-boilerplate](https://github.com/mvagnon/react-boilerplate)** &bull; Boilerplate for React apps, including CI, pre-commit hooks and Orval configuration.
 - 2026 &bull; **⚡️ [zapdev](https://github.com/mvagnon/zapdev)** &bull; Fast, performant and lightweight git chores and dev tools using your terminal and your own local LLM.

@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="180" alt="Coffee GIF" src="https://raw.githubusercontent.com/mvagnon/readme-assets/refs/heads/main/coffee.gif" />
+  <img height="180" alt="Eren" src="https://raw.githubusercontent.com/mvagnon/readme-assets/refs/heads/main/eren.png" />
 </div>
 <br />
 <p align="center"><i><b>Hi, and welcome to my GitHub!</b></i></p>

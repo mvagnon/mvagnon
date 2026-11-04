@@ -15,6 +15,7 @@
 
 ### Current
 
+- 2026 &bull; **📚 [mvagnon/skills](https://github.com/mvagnon/skills)** &bull; Some skills my agents have.
 - 2026 &bull; **⚡️ [zapdev MCP](https://github.com/mvagnon/zapdev-mcp)** &bull; MCP server for zapdev. Let your agents do git chores in the blink of an eye.
 - 2026 &bull; **⚛️ [mvagnon/rn-boilerplate](https://github.com/mvagnon/rn-boilerplate)** &bull; Agent-native React Native boilerplate, including CI, pre-commit hooks and Orval configuration.
 - 2026 &bull; **⚛️ [mvagnon/react-boilerplate](https://github.com/mvagnon/react-boilerplate)** &bull; Agent-native React boilerplate, including CI, pre-commit hooks and Orval configuration.

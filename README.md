@@ -15,16 +15,16 @@
 
 ### Current
 
-- 2026 &bull; **⚡️ [zapdev MCP](https://github.com/mvagnon/zapdev-mcp)** &bull; MCP server for zapdev. Let your agents do git chores in the blink of an eye.
 - 2026 &bull; **⚛️ [mvagnon/rn-boilerplate](https://github.com/mvagnon/rn-boilerplate)** &bull; Agent-native React Native boilerplate, including CI, pre-commit hooks and Orval configuration.
 - 2026 &bull; **⚛️ [mvagnon/react-boilerplate](https://github.com/mvagnon/react-boilerplate)** &bull; Agent-native React boilerplate, including CI, pre-commit hooks and Orval configuration.
-- 2026 &bull; **⚡️ [zapdev](https://github.com/mvagnon/zapdev)** &bull; Fast, performant and lightweight git chores and dev tools using your terminal and your own local LLM.
 - 2026 &bull; **🌐 [Portfolio 2.0](https://github.com/mvagnon/mvagnon-portfolio)** &bull; Personal web portfolio.
 
 ### Deprecated
 
 *I prefer to focus on projects that really bring something to the ecosystem. Feel free to fork!*
 
+- 2026 &bull; **[zapdev MCP](https://github.com/mvagnon/zapdev-mcp)**
+- 2026 &bull; **[zapdev](https://github.com/mvagnon/zapdev)**
 - 2026 &bull; **[Family-Fi](https://github.com/mvagnon/family-fi)**
 - 2026 &bull; **[OpenCode MCP](https://github.com/mvagnon/opencode-mcp)**
 - 2026 &bull; **[Plan Based Agentic Workflow](https://github.com/mvagnon/plan-based-agentic-workflow)**

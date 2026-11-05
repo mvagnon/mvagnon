@@ -21,7 +21,7 @@
 
 ### Deprecated
 
-*I prefer to focus on projects that really bring something to the ecosystem. Feel free to fork!*
+*Better alternatives available, or no time to maintain. Feel free to fork.*
 
 - 2026 &bull; **[zapdev MCP](https://github.com/mvagnon/zapdev-mcp)**
 - 2026 &bull; **[zapdev](https://github.com/mvagnon/zapdev)**

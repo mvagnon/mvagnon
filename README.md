@@ -15,8 +15,7 @@
 
 ### Current
 
-- 2026 &bull; **⚛️ [mvagnon/rn-boilerplate](https://github.com/mvagnon/rn-boilerplate)** &bull; Agent-native React Native boilerplate, including CI, pre-commit hooks and Orval configuration.
-- 2026 &bull; **⚛️ [mvagnon/react-boilerplate](https://github.com/mvagnon/react-boilerplate)** &bull; Agent-native React boilerplate, including CI, pre-commit hooks and Orval configuration.
+- 2026 &bull; **🍛 [Boilerplates](https://github.com/mvagnon/boilerplates)** &bull; Agent-native Turborepo containing React & React Native boilerplates, including CI, pre-commit hooks, Orval configuration and much more.
 - 2026 &bull; **🌐 [Portfolio 2.0](https://github.com/mvagnon/mvagnon-portfolio)** &bull; Personal web portfolio.
 
 ### Deprecated

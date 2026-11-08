@@ -13,23 +13,23 @@
 
 ## Personal Projects
 
-### Current
+### Actively Maintained
 
-- 2026 &bull; **🍛 [Boilerplates](https://github.com/mvagnon/boilerplates)** &bull; Agent-native Turborepo containing React & React Native boilerplates, including CI, pre-commit hooks, Orval configuration and much more.
-- 2026 &bull; **🌐 [Portfolio 2.0](https://github.com/mvagnon/mvagnon-portfolio)** &bull; Personal web portfolio.
+- **🍛 [Boilerplates](https://github.com/mvagnon/boilerplates)** &bull; Agent-native Turborepo containing React & React Native boilerplates, including CI, pre-commit hooks, Orval configuration and much more.
+- **🌐 [Portfolio 2.0](https://github.com/mvagnon/mvagnon-portfolio)** &bull; Personal web portfolio.
 
 ### Deprecated
 
 *Better alternatives available, or no time to maintain. Feel free to fork.*
 
-- 2026 &bull; **[zapdev MCP](https://github.com/mvagnon/zapdev-mcp)**
-- 2026 &bull; **[zapdev](https://github.com/mvagnon/zapdev)**
-- 2026 &bull; **[Family-Fi](https://github.com/mvagnon/family-fi)**
-- 2026 &bull; **[OpenCode MCP](https://github.com/mvagnon/opencode-mcp)**
-- 2026 &bull; **[Plan Based Agentic Workflow](https://github.com/mvagnon/plan-based-agentic-workflow)**
-- 2025 &bull; **[mvagnon/agents](https://github.com/mvagnon/agents)**
-- 2025 &bull; **[Personal Dashboard](https://github.com/mvagnon/personal-dashboard)**
-- 2025 &bull; **[Portfolio](https://github.com/mvagnon/portfolio)**
+- **[zapdev MCP](https://github.com/mvagnon/zapdev-mcp)**
+- **[zapdev](https://github.com/mvagnon/zapdev)**
+- **[Family-Fi](https://github.com/mvagnon/family-fi)**
+- **[OpenCode MCP](https://github.com/mvagnon/opencode-mcp)**
+- **[Plan Based Agentic Workflow](https://github.com/mvagnon/plan-based-agentic-workflow)**
+- **[mvagnon/agents](https://github.com/mvagnon/agents)**
+- **[Personal Dashboard](https://github.com/mvagnon/personal-dashboard)**
+- **[Portfolio](https://github.com/mvagnon/portfolio)**
 
 ## Contact Me
 

@@ -16,7 +16,7 @@
 ### Actively Maintained
 
 - **🍛 [Boilerplates](https://github.com/mvagnon/boilerplates)** &bull; Agent-native Turborepo containing React & React Native boilerplates, including CI, pre-commit hooks, Orval configuration and much more.
-- **🌐 [Portfolio 2.0](https://github.com/mvagnon/mvagnon-portfolio)** &bull; Personal web portfolio.
+- **🌐 [Portfolio](https://github.com/mvagnon/mvagnon-portfolio)** &bull; Personal web portfolio.
 
 ### Deprecated
 
@@ -29,7 +29,6 @@
 - **[Plan Based Agentic Workflow](https://github.com/mvagnon/plan-based-agentic-workflow)**
 - **[mvagnon/agents](https://github.com/mvagnon/agents)**
 - **[Personal Dashboard](https://github.com/mvagnon/personal-dashboard)**
-- **[Portfolio](https://github.com/mvagnon/portfolio)**
 
 ## Contact Me
 
